@@ -3,9 +3,28 @@
 The purpose of this project is to analyze bikesharing data in New York City to identify insights for a potential opening of a similar program in a different city. The project requires cleaning some of the data using Python Pandas and visualizing the findings using Tablaeu.
 
 ## Project Results
-[link to dashboard](https://public.tableau.com/app/profile/adrian.martinez3539/viz/NYC_Citibike_Challenge_16629309776840/Story1?publish=yes)
-[link to dashboard](https://public.tableau.com/app/profile/adrian.martinez3539/viz/NYC_Citibike_Challenge_16629309776840/Story1?publish=yes "link to dashboard")
+[Link to Dashboard](https://public.tableau.com/app/profile/adrian.martinez3539/viz/NYC_Citibike_Challenge_16629309776840/Story1?publish=yes)
 
+### Checkout Times for Users
+![](images/sheet1.png)
+
+### Checkout Times by Gender
+![](images/sheet2.png)
+
+### Trips by Weekday per Hour
+![](images/sheet3.png)
+
+### Trips by Gender (Weekday per Hour)
+![](images/sheet4.png)
+
+### User Trips by Gender by Weekday
+![](images/sheet5.png)
+
+### Top Starting Locations
+![](images/sheet6.png)
+
+### Top Ending Locations
+![](images/sheet7.png)
 
 ## Project Summary
 The project identified the following key insights:
